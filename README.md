@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on .Net and Angular projects!
+- 🌱 I’m currently learning Docker. I am hosting my son's Minecraft server.
+- 💬 Ask me about Angular. I totally dig Angular.
+- 📫 How to reach me: cscheufele {at} gmail {you know the rest}
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've been coding before Stack Overflow was a thing. We used to have to use books.
+
 <!--
 **gotshoo/gotshoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
